@@ -4,16 +4,15 @@ Guilty Pleasure
 Getting Started
 -------
 
-Requirement
--------
-
 
 Enviroment
 -------
-
+* ##### Unity3D
 
 Platform
 -------
+* ###### AOS
+* ###### PC
 
 
 Authors
