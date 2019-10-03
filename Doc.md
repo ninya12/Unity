@@ -7,18 +7,18 @@ Getting Started
 
 Enviroment
 -------
-* ##### Unity3D
+* __Unity3D__
 
 Platform
 -------
-* ###### AOS
-* ###### PC
+* __AOS__
+* __PC__
 
 
 Authors
 -------
 
-* <b>Jo</b> - Design
-* <b>Hong</b> - Producing
-* <b>Kim</b> - Client & Server
-* <b>Chu</b> - Client & server
+* __Jo__ - Design
+* __Hong__ - Producing
+* __Kim__ - Client & Server
+* __Chu__ - Client & server
