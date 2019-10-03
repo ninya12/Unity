@@ -1,13 +1,14 @@
 Guilty Pleasure
 ===
 
-Getting Started
+Summary
 -------
-
+> I have Guilty Pleasure. If i don't feel immorality, i'm die.
 
 Enviroment
 -------
-* __Unity3D__
+* Clinet - __Unity3D__
+* Server - __socket__
 
 Platform
 -------
